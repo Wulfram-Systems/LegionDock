@@ -1,7 +1,20 @@
 # LegionDock
-Legion Docker Install X11 local
+Legion Docker Install X11 local:
+
+"Disclaimer of Use
+
+The program provided on this repository is intended for educational and research purposes only. It should not be used for any illegal or malicious activities. The authors and contributors of this program will not be held responsible for any misuse or damage caused by the use of this program.
+
+By using this program, you agree to use it only for lawful and ethical purposes. You also agree to use it at your own risk and to take full responsibility for any consequences resulting from its use.
+
+We strongly advise against using this program on systems or networks that you do not own or have permission to use.
+
+The creators and contributors of this program do not condone any illegal or malicious activities and will not provide any support for such use cases."
 Getting Legion to run on almost any system locally:
-here is a step-by-step guide on how to run the program using Docker and local X11 forwarding:
+
+
+
+Here is a step-by-step guide on how to run the program using Docker and local X11 forwarding:
 
 Install Docker on your system.
 Download the Docker image for the program by running the following command:
